@@ -8,3 +8,7 @@ Beyond gaming, a similar problem exists on corporate machines where system sleep
 ![AutoClicke2](https://github.com/user-attachments/assets/5f2b83f4-6c24-4c19-98a9-2899b18c252c)
 
 This project not only enhanced gaming convenience but also provided a practical, non-intrusive solution for maintaining activity on restricted workstations.
+
+## Steps to use:
+- To use power shell file, right click on file and run as powershell. Program will start.
+- To use python file, python installation is prerequisite. Start the program like any other pthon program.
